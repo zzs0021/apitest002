@@ -1,0 +1,17 @@
+[
+  {"case":"login_success",
+    "username":"lucy",
+    "password":"123456",
+    "status":200,
+    "result":0,
+    "msg":"success"
+  },
+  {
+    "case":"user_not_find",
+    "username":"lucy12",
+    "password":"123456",
+    "status":200,
+    "result":2,
+    "msg":" not find"
+  }
+]

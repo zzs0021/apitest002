@@ -1,0 +1,17 @@
+[
+   {
+    "case":"success",
+    "goods_name":"OPPO Nevo4",
+    "category_id":"1",
+    "status":200,
+    "result":0,
+    "msg":" success"
+  },
+  {
+    "case":"goods is exists",
+    "goods_name":"OPPO Nevo4",
+    "category_id":"1",
+    "status":200,
+    "result":2,
+    "msg":" goods is exists"}
+]

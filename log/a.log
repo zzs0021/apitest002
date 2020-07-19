@@ -1,0 +1,20 @@
+2020-07-18 17:03:34,378  INFO  config.py  <module>    24  zz
+2020-07-18 17:04:46,482  INFO  test_login.py  test_login    13  login_success:{'msg': 'success', 'result': 0, 'userid': 1}
+2020-07-18 21:03:32,568  INFO  test_login.py  test_login    13  login_success:{'msg': 'success', 'result': 0, 'userid': 1}
+2020-07-18 21:03:32,584  INFO  test_login.py  test_login    13  user_not_find:{'msg': 'the user not find!', 'result': 2}
+2020-07-18 21:04:57,205  INFO  test_login.py  test_login    13  login_success:{'msg': 'success', 'result': 0, 'userid': 1}
+2020-07-18 21:04:57,205  INFO  test_login.py  test_login    13  user_not_find:{'msg': 'the user not find!', 'result': 2}
+2020-07-18 21:16:47,208  INFO  test_login.py  test_login    13  login_success:{'msg': 'success', 'result': 0, 'userid': 1}
+2020-07-18 21:16:47,208  INFO  test_login.py  test_login    13  user_not_find:{'msg': 'the user not find!', 'result': 2}
+2020-07-18 21:19:21,047  INFO  test_login.py  test_login    13  login_success:{'msg': 'success', 'result': 0, 'userid': 1}
+2020-07-18 21:19:21,047  INFO  test_login.py  test_login    13  user_not_find:{'msg': 'the user not find!', 'result': 2}
+2020-07-18 21:21:32,315  INFO  test_login.py  test_login    13  login_success:{'msg': 'success', 'result': 0, 'userid': 1}
+2020-07-18 21:21:32,315  INFO  test_login.py  test_login    13  user_not_find:{'msg': 'the user not find!', 'result': 2}
+2020-07-18 21:26:27,584  INFO  test_login.py  test_login    13  login_success:{'msg': 'success', 'result': 0, 'userid': 1}
+2020-07-18 21:26:27,584  INFO  test_login.py  test_login    13  user_not_find:{'msg': 'the user not find!', 'result': 2}
+2020-07-18 21:33:57,558  INFO  test_login.py  test_login    13  login_success:{'msg': 'success', 'result': 0, 'userid': 1}
+2020-07-18 21:33:57,558  INFO  test_login.py  test_login    13  user_not_find:{'msg': 'the user not find!', 'result': 2}
+2020-07-18 21:35:32,430  INFO  test_login.py  test_login    13  login_success:{'msg': 'success', 'result': 0, 'userid': 1}
+2020-07-18 21:35:32,430  INFO  test_login.py  test_login    13  user_not_find:{'msg': 'the user not find!', 'result': 2}
+2020-07-18 22:03:10,346  INFO  test_login.py  test_login    13  login_success:{'msg': 'success', 'result': 0, 'userid': 1}
+2020-07-18 22:03:10,346  INFO  test_login.py  test_login    13  user_not_find:{'msg': 'the user not find!', 'result': 2}
